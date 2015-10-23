@@ -15,3 +15,6 @@ div.icon.icon-name {
 	background-image: url(/* data */);
 }
 ```
+
+Sample Icon:
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAY0lEQVQ4T2NkoBAw4tD/H4c4hnpsBoA04zMYRQ5dIT7NMEehqEE2gBjNGIbADMCmGV0MKx+fAYTiB2zg4DaAULgQ5QX0BIURa1SLRqyJBE8yh1tM9aSM7BJsDiAqMxFKQCjyANyKHxExdiL5AAAAAElFTkSuQmCC" />
