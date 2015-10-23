@@ -16,3 +16,7 @@ div.icon.icon-name {
 }
 ```
 
+can be used as a favicon too
+```html
+<link rel="icon" type="image/png" href="/* data */"/>
+

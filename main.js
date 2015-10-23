@@ -54,7 +54,7 @@ img.clear = function clearCanvas() {
 img.clear();
 
 img.toDataURL = function (){
-	return "background-image: url("+canvas.toDataURL("image/png")+");";
+	return canvas.toDataURL("image/png");
 };
 
 var drawing = null;
