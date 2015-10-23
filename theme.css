@@ -53,3 +53,14 @@ body {
 	height: 10%;
 }
 
+.icon {
+	display: inline-block;
+	vertical-align: top;
+	width: 16px;
+	height: 16px;
+}
+
+.icon.export {
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAWUlEQVQ4T2NkoBAwkqj/P5p6RmQD0CWR1eJSR7IBRLkAl7eQNYPUgPhYXYDNAHTNcO9h8xs+AzDkiDUAOUBhrgHrHTUAexgQm7pxBiLZBhCrEUUdqbkRwxIAKHIYEeHiu5oAAAAASUVORK5CYII=);
+}
+
