@@ -1,0 +1,55 @@
+
+body {
+	font-family: sans-serif;
+}
+
+.title {
+	font-size: 20px;
+	text-align: center;
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+.container {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+}
+
+#maincanvas {
+	border: 1px solid #555;
+	image-rendering: pixelated;
+}
+
+#gridcanvas {
+	border: 1px solid transparent;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background-color: transparent;
+	pointer-events: none;
+}
+#gridbutton {
+	margin-top:5px;
+	padding: 5px;
+	border: 1px solid black;
+	cursor: pointer;
+	-webkit-user-select: none;
+	user-select: none;
+}
+
+.canvas_container {
+	display: inline-block;
+	position: relative;
+}
+
+#style_display {
+	width: 50%;
+	height: 10em;
+}
+
+.spacer {
+	height: 10%;
+}
+
