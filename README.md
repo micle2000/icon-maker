@@ -2,7 +2,7 @@
 
 make 16x16 icons for use in data urls
 
-Suggested style for icon
+suggested style for icon:
 ```css
 div.icon {
 	display: inline-block;
