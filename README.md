@@ -1,4 +1,4 @@
-# [Icon Maker](https://github.com/micle2000/icon-maker)
+# [Icon Maker](http://micle2000.github.io/icon-maker/)
 
 make 16x16 icons for use in data urls
 
