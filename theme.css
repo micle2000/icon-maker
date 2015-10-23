@@ -1,13 +1,23 @@
 
 body {
 	font-family: sans-serif;
+	text-align: center;
 }
 
 .title {
 	font-size: 20px;
-	text-align: center;
+}
+.top {
 	margin-top: 5%;
 	margin-bottom: 5%;
+}
+
+a {
+	color: black;
+	text-decoration: none;
+}
+a:visited {
+	color: black;
 }
 
 .container {
